@@ -1,7 +1,6 @@
 # Advancements in Medical Segmentation: Comparative Analysis of MedSegDiff-V2 and Swin UNETR in Brain and Skin Image Processing
 
 **Authors**: Tianxing Ma, Yichen Lu, Dianze Li, Beining Zhu  
-**Affiliation**: Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI 48105  
 **Emails**: {tianxinm, nechy, dianzeli, bxz}@umich.edu
 
 ## Abstract
