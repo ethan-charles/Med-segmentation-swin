@@ -1,0 +1,5 @@
+git+https://github.com/Project-MONAI/MONAI.git@07de215c
+nibabel
+tqdm
+einops
+tensorboardX
