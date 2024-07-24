@@ -12,7 +12,7 @@ Our paper is HERE: [Advancements in Medical Segmentation: Comparative Analysis o
 
 # SwinUNETR: Model Overview
 This repository contains the code for [Swin UNETR](https://arxiv.org/pdf/2201.01266.pdf) [1,2] for the task of brain tumor  segmentation using the [BraTS 21](http://braintumorsegmentation.org/) challenge dataset [3,4,5,6]. Swin UNETR ranked among top-perfoming models in BraTS 21 validation phase. The architecture of Swin UNETR is demonstrated as below
-![image]([./assets/swin_unetr.png](https://github.com/ethan-charles/Med-segmentation-swin/blob/main/swinUNETR/assets/swin_unetr.png))
+![image](https://github.com/ethan-charles/Med-segmentation-swin/blob/main/swinUNETR/assets/swin_unetr.png)
 
 # MedSegDiff: Medical Image Segmentation with Diffusion Model
 MedSegDiff a Diffusion Probabilistic Model (DPM) based framework for Medical Image Segmentation. The algorithm is elaborated on our paper [MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model](https://arxiv.org/abs/2211.00611) and [MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer](https://arxiv.org/pdf/2301.11798.pdf).
